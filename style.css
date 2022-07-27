@@ -1,0 +1,8 @@
+.header-text {
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    right: auto;
+
+    color: white;
+}
