@@ -13,6 +13,16 @@
 
 }
 
+.icons i {
+    background-color: black;
+    font-size: 30px;
+    color: white;
+    border-radius: 50px;
+
+}
+
+
+
 @media screen and (max-width:576px) {
     .carousel-image img {
         height: 400px
