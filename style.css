@@ -1,8 +1,28 @@
 .header-text {
     position: absolute;
     top: 40%;
-    left: 20%;
+    left: 15%;
     right: auto;
+    text-align: center;
 
     color: white;
+}
+
+.carousel-image img {
+    filter: brightness(0.4);
+
+}
+
+@media screen and (max-width:576px) {
+    .carousel-image img {
+        height: 400px
+    }
+
+}
+
+@media screen and (min-width:576px) and (max-width:1000px) {
+    .carousel-image img {
+        height: 500px;
+    }
+
 }
