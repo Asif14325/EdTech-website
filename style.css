@@ -21,6 +21,9 @@
 
 }
 
+.back-color {
+    background-color: #F4FAFD;
+}
 
 
 @media screen and (max-width:576px) {
